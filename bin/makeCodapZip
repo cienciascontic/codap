@@ -17,7 +17,7 @@ function usage() {
 
 OPTS=
 BUILD_OPTS=
-DEFAULT_ROOT_SUBSTITUTION=../../../../
+DEFAULT_ROOT_SUBSTITUTION=../../../..
 ROOT_SUBSTITUTION=$DEFAULT_ROOT_SUBSTITUTION
 while true; do
   case "$1" in
